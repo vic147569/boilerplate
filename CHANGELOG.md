@@ -1,4 +1,11 @@
 Change Log
+### [1.2.1](https://github.com/vic147569/boilerplate/compare/v1.2.0...v1.2.1) (2024-05-08)
+
+
+### 🐛 Bug Fixes
+
+* test fix ([c28909b](https://github.com/vic147569/boilerplate/commit/c28909b96f61354a61dbfb40be65eba456d1e59c))
+
 ## [1.2.0](https://github.com/vic147569/boilerplate/compare/v1.1.4...v1.2.0) (2024-05-08)
 
 
