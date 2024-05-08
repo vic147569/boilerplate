@@ -10,10 +10,6 @@
       "section": "🐛 Bug Fixes"
     },
     {
-      "type": "init",
-      "section": "🎉 Init"
-    },
-    {
       "type": "docs",
       "section": "✏️ Documentation"
     },
@@ -40,14 +36,6 @@
     {
       "type": "build",
       "section": "📦 Build System"
-    },
-    {
-      "type": "update",
-      "section": "🚀 update"
-    },
-    {
-      "type": "tool",
-      "section": "🚀 tool"
     },
     {
       "type": "ci",
